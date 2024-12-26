@@ -1,0 +1,64 @@
+Agile :
+ - Là một vòng tuần hoàn
+ - Mô hình vòng lặp 
+ - Có thể sử dụng dược luôn nhưng sẽ phát triển thêm
+ - Mô hình thích ứng
+Waterfall: 
+ - Kế hoạch rõ ràng
+
+
+Strum : Là 1 famword
+- Có 12 quy tắc
+- Tập trung vào giá trị(Value)
+
+
+Tinh thần vs Agile : 
+
+Scrum Overview
+ -Rõ ràng : 
+	+ Meeting -> báo cáo tiến độ ( Trung Bình)
+	+ Test
+	+ Nhận Feetback
+ -Thực Nghiệm : 
+ -Thích ứng: 
+
+
+Scrum Roles: 
+  - Anh Phuc
+  - Scrum Master:
+	+ Chị My
+	+
+ - Dev team: Dev + Qcs
+
+User Story:
+ - Viết các chức năng của Item  -> Dev -> Test -> Fix Bug
+
+
+Scrum Events: 
+ 
+
+Thống Kê Lại: 
+ - Product Backlog: Chia points  theo đúng quá trình cảu dự án
+ - Tự chia task
+
+
+Cơ chế tính points -> Trung bình 8 tiếng
+ - Đối vs người mới > 8 tiếng
+ - Tùy theo độ khó của task
+ - Người lâu 6- 7 tiếng
+
+
+Change Request Process: 
+ - Nếu có bị đổi PO/PPO -> báo cáo cho List -> Sửa đổi lại điểm points
+
+Points thể hiện độ khó của task
+
+Cách tính điểm Points 
+ - Dev And Qc cùng đánh points :
+	+ Có đầy đủ yêu cầu đânhs points
+ - Đáh theo dạng sô fibonacci :  0,1; 1; 2; 3; 5; 8; 13; 21; ...
+ - Đánh Points đựa theo độ khó cảu task và các công đoạn. 
+ - Khi đánh phải giải thích được tại sao lại đánh như vậy
+ - Không nên giảm Poinst của task
+
+

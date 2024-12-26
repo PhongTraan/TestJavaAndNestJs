@@ -1,0 +1,19 @@
+FE:
+  + css: styled-component
+  + template: antd v4 + tailwind
+  + framework: reactjs 
+  + language: JS/TS 
+  + state management: redux
+
+BE:
+  + framework: nodejs, nestjs
+  + language: JS/TS
+  + orm: typeorm, prisma
+  + api document: swagger
+
+Test:
+  + Jest
+
+
+JS lib khác để hỗ trợ quá trình code:
+ + moment, lodash, socket.io, eslint, prettier

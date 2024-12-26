@@ -1,0 +1,62 @@
+
+
+1. Create Module, Controller, Service
+ nest g resource <name-resource> --no-spec 
+ Ex: nest g resource user --no-spec
+
+2. Create Controller: 
+ nest g controller <name-controller> --no-spec
+ Ex: nest g controller user --no-spec
+
+
+3. Crate Service :
+ nest g service <name-service> --no-spec
+ Ex: nest g service user --no-spec
+
+4. Create Model: 
+ nest g module <name-module>
+ Ex: nest g module user
+
+
+5. Create File Prisma 
+ yarn/npm prisma init 
+
+
+
+II. Use Prisma :
+ 1. Create Local View Prisma
+  - npx prisma studio 
+
+ 2. Create New All Table Prisma
+ -  yarn prisma migrate dev --name init-data 	
+
+ 3. Create One Table In Prisma =
+ -  yarn/mpm  prisma migrate dev --name add-comment-table
+
+III. Use Docker
+ 1. Check Config docker 
+ - docker-compose config
+
+ 2. Run Docker
+ - docker-compose up -d
+
+ 3.Chec Port Docker
+ - docker ps
+
+ 4. Delete Information Docker : Ex: post, nestword,...
+ - docker compose down
+
+ 5 Restart database
+ - docker compose up -d dev-database -d
+ 
+ 6. Check docker Run
+ - docker ps
+
+ 7. CD file docker
+ docker logs file
+ 
+
+ 
+
+
+
